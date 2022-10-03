@@ -7,8 +7,8 @@ import (
 	"os"
 	"regexp"
 
+	"github.com/NoF0rte/aquatone/core"
 	"github.com/PuerkitoBio/goquery"
-	"github.com/michenriksen/aquatone/core"
 )
 
 type FingerprintRegexp struct {

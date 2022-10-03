@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/NoF0rte/aquatone/core"
 	"github.com/PuerkitoBio/goquery"
-	"github.com/michenriksen/aquatone/core"
 )
 
 type URLPageTitleExtractor struct {
